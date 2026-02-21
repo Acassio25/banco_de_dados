@@ -1,3 +1,4 @@
+
 CREATE TABLE colaborador
 (
 	id_colaborador SERIAL PRIMARY KEY,

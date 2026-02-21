@@ -1,4 +1,5 @@
 
+
 CREATE TABLE endereco
 ( 
 	id_endereco SERIAL PRIMARY KEY,
